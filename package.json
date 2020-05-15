@@ -1,0 +1,23 @@
+{
+  "name": "tickcheck",
+  "version": "1.0.0",
+  "description": "Program to find ticker price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianktc/tickCheck.git"
+  },
+  "author": "Ian Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianktc/tickCheck/issues"
+  },
+  "homepage": "https://github.com/ianktc/tickCheck#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
